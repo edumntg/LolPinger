@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\bin\Release\LolPing.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\LolPing.exe
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\LolPing.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\bin\Release\LolPing.exe
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\bin\Release\LolPing.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\LolPing.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\PingInjector.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\LolPing.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\LolPinger\PingInjector\obj\Release\LolPing.csproj.GenerateResource.Cache
